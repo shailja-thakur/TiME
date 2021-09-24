@@ -1,4 +1,5 @@
-# TiME (Time-series-based Model outcome Explanation)
+# TiME 
+<!-- (Time-series-based Model outcome Explanation) -->
 This repository contains cource code and supporting documents necessary to reproduce the results:
 
 ## Method Overview
