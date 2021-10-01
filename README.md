@@ -14,7 +14,7 @@ The method is evaluated against a wide range of time-series datasets from UCI re
 
 ## <span style="color: red;">Related scripts and notebooks comig soon ...</span>
 
-## Repository contents
+## Repository contents will include
 * TiME complete implementation is available in the form of notebook in [scripts/TiME-PhysioNet.ipynb](), prototyped using keras framework.
 * TiME implementation is also available for demonstration ias python scripts under scripts folder.  
 * Notebook []() shows the working of TiME using the PyTorch framework and evaluated using PhysioNet ECG dataset.
