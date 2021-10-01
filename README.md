@@ -2,7 +2,7 @@
 <!-- (Time-series-based Model outcome Explanation) -->
 This repository contains cource code and supporting documents necessary to reproduce the results:
 
-# Related scripts and notebooks comig soon ...
+## <span style="color: red;">Related scripts and notebooks comig soon ...</span>
 
 ## Method Overview
 
